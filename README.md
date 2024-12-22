@@ -2,5 +2,4 @@
 
 --------------
 
-Study about building a portfolio using Stack MERN.
-
+Study how to build a portfolio using the MERN stack.
