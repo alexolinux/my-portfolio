@@ -2,4 +2,4 @@
 
 --------------
 
-Study how to build a portfolio using the MERN stack.
+Study how to build a portfolio using NodeJS.
